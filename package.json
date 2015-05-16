@@ -1,0 +1,31 @@
+{
+  "name": "lionjs-gulp-example",
+  "version": "1.0.0",
+  "description": "LionJS Example Usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asilluron/lionjs-gulp-example.git"
+  },
+  "keywords": [
+    "lion",
+    "js",
+    "lionjs",
+    "example",
+    "gulp"
+  ],
+  "author": "Andrew Silluron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asilluron/lionjs-gulp-example/issues"
+  },
+  "homepage": "https://github.com/asilluron/lionjs-gulp-example#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}
