@@ -1,0 +1,21 @@
+{
+    "moduleName": "textForms",
+    "form": {
+        "firstName": {
+            "type": "string",
+            "validators": ["alphanum", {
+                "min": 3
+            }, {
+                "max": 30
+            }, "required"]
+        },
+        "lastName": {
+            "type": "string",
+            "validators": [{
+                "min": 2
+            }, {
+                "max": 30
+            }, "required"]
+        }
+    }
+}
